@@ -10,6 +10,9 @@ plus proportional tax & tip, in integer minor units so the shares always add
 up to the bill total **to the cent**. Each person then pays exactly their
 share to the organizer with a PayPal Sandbox checkout button.
 
+**Demo video (2:30, public):** https://youtu.be/s4oE1nsJiR4 — the full
+flow end to end, recorded in the app's clearly-labelled demo mode.
+
 Built for the **PayPal AI Hackathon** (Devpost). It meaningfully uses both
 required ingredients:
 

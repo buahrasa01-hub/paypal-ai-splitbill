@@ -124,7 +124,7 @@ Node.js · PayPal JS SDK (Smart Buttons) · PayPal REST Orders API v2
 ## Links
 
 - Source repository: https://github.com/buahrasa01-hub/paypal-ai-splitbill
-- Demo video (YouTube, public, under 3 minutes): [INSERT after recording]
+- Demo video (YouTube, public, under 3 minutes): https://youtu.be/s4oE1nsJiR4
 - Hosted demo: local-run via repo instructions (see Testing above)
 
 ## Accuracy notes for the submitter (delete before submitting)
